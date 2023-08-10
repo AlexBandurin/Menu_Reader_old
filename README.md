@@ -4,17 +4,18 @@ This is a web application that uses a image file of a restaurant menu to convert
 That text is then sent through a Machine Learning (ML) model to output a list of menu items. That list is then sent 
 through another ML model to categorize these items in to 6 categories: Drinks, Appetizers, Salads, Soups, Main, Dessert.
 
-Python Packages used: <br>
-**Easyocr** <br>
-For converting image files into distinct pieces of text (textboxes)
-**Pandas** <br>
+Python Packages used:
+
+**Easyocr** 
+For converting image files into distinct pieces of text (textboxes) <br>
+**Pandas** 
 For organizing text provided by easyocr into a table (dataframe) and feature engineering. 
-23 Menus have been collected from the internet, sent through ocr, and organized into a table, totaling over 2500 rows of text. 
-**BERT (from transformers)** <br>
-Text was converted into word embeddings (768 features) to assist with classification modeling
-**sklearn and xgboost** <br>
+23 Menus have been collected from the internet, sent through ocr, and organized into a table, totaling over 2500 rows of text. <br>
+**BERT (from transformers)**
+Text was converted into word embeddings (768 features) to assist with classification modeling  <br>
+**sklearn and xgboost** 
 Each row of text has been labeled as a "menu item" or not (binary classification). The following algorithms were tested: Decision Tree (R^2 = 0.858), 
-Random Forest (R^2 = 0.860), and XGBoost (R^2 = 0.922), out of which XGBoost was deemed the most accurate.
+Random Forest (R^2 = 0.860), and XGBoost (R^2 = 0.922), out of which XGBoost was deemed the most accurate. <br>
 
 The following features were used for classification:
 - Text (word embeddings)
