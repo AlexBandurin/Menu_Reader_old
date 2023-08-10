@@ -6,14 +6,14 @@ through another ML model to categorize these items in to 6 categories: Drinks, A
 
 Python Packages used:
 
-**Easyocr** 
+## Easyocr
 For converting image files into distinct pieces of text (textboxes) <br></br>
-**Pandas** 
+## Pandas
 For organizing text provided by easyocr into a table (dataframe) and **feature engineering**. 
 23 Menus have been collected from the internet, sent through ocr, and organized into a table, totaling **over 2500 rows** of text. <br></br>
-**BERT (from transformers)**
+##BERT (from transformers)
 Text was converted into **word embeddings** (768 features) to assist with classification modeling.  <br></br>
-**sklearn and xgboost** 
+## Sklearn and Xgboost
 Each row of text has been labeled as a "menu item" or not (**binary classification**). The following algorithms were tested: Decision Tree (R^2 = 0.858), 
 Random Forest (R^2 = 0.860), and **XGBoost (R^2 = 0.922)**, out of which XGBoost was deemed the most accurate. <br></br>
 
