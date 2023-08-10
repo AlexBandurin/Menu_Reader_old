@@ -1,0 +1,84 @@
+<html>
+<head>
+    <title>Python Flask Upload and display image</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />        
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+</head>
+<body>
+    <p><h1 align="center">Menu Reader</h1></p>
+    <p><h1 align="left" style="font-size: 20px;">Please select a sample menu below or select a new file to upload</h1></p>
+    <div class="thumbnails">
+        {% for thumbnail in thumbnails %}
+            <a href="{{ url_for('display_thumbnail', filename=thumbnail) }}">
+                <img src="{{ url_for('static', filename='thumbnails/' + thumbnail) }}" alt="{{ thumbnail }}" class="img-thumbnail" width="225">
+            </a>
+        {% endfor %}
+    </div>
+    
+    <div class="container">
+        <div class="row">
+            <!-- <p>
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                        <ul>
+                        {% for message in messages %}
+                            <li>{{ message }}</li>
+                        {% endfor %}
+                        </ul>
+                    {% endif %}
+                {% endwith %}
+            </p> -->
+
+            <form method="post" action="/" enctype="multipart/form-data" id="uploadForm">
+                <dl>
+                    <p>
+                        <!-- Add an onchange event to the file input -->
+                        <input type="file" name="file" class="form-control" autocomplete="off" required onchange="document.getElementById('uploadForm').submit();">
+                    </p>
+                </dl>      
+            </form>
+            
+            {% if thumbnail_filename %}
+                <div style="display: flex; justify-content: center;">
+                    <img src="{{ url_for('static', filename=thumbnail_filename) }}" alt="{{ thumbnail_filename }}"  style="width: 1050px; height: auto;">
+                </div>
+            {% endif %}
+
+            {% if filename %}
+                <div style="display: flex; justify-content: center;">
+                    <img src="{{ url_for('static', filename='uploads/' + filename) }}" alt="{{ filename }}" style="width: 1050px; height: auto;">
+                </div>              
+            {% endif %}
+            <br>
+            <br>
+            <br>
+            {% if filename %}
+                <form action="/display/{{ filename }}/menu_read" method="get">  
+                    <!-- {% if filename %}
+                        <input type="hidden" name="filename" value="{{ filename }}">
+                    {% endif %} -->
+                    <p>
+                        <input type="submit" value="Read Menu" class="btn btn-info" style="width: 135px; height: 70px; font-size: 22px; 
+                                                        background-color: darkgreen">
+                    </p>
+                </form>   
+            {% endif %}
+            {% if categories %}
+                <div class="categories">
+                    {% for category, items in categories.items() %}
+                        <h2 style="font-size: 18px;">{{ category.capitalize() }}</h2  >
+                        <ul style="padding-left: 10px;">
+                            {% for item in items %}
+                                <li>{{ item }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endfor %}
+                </div>
+
+            {% endif %}
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

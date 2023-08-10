@@ -1,0 +1,738 @@
+,Text,Type
+0,Soft Tofu Soup,4
+1,Noodle Soups,4
+2,Rice Noodle Soup,4
+3,Bamee Wonton,4
+4,Mussels di Napeli,5
+5,Captese Flatbread,5
+6,Grilled Chiken Flatbread,5
+7,Bruschetta,5
+8,Ultimate Feast,5
+9,Mixed Grill,5
+10,Fresh Atlantic,5
+11,Admirals Feast,5
+12,Bar Harbor Lobster Bake,5
+13,Seaside Shrimp Trio,5
+14,Parrot Isle Jumbo,5
+15,Garlic Shrimp,5
+16,Coconut Shrimp,5
+17,WoodGrilled Tilapia,5
+18,Shrimp Linguini,5
+19,Sea Scallops,5
+20,SoyGinger Salmon,5
+21,Sirloin,5
+22,Walts Favorite,5
+23,WoodGrilled,5
+24,Yucatan Tilapia and Shrimp,5
+25,Dragon Shrimp,5
+26,SouthwestStyle Tacos,5
+27,Salmon New Orleans,5
+28,Grilled Shrimp,5
+29,Grilled Chicken,5
+30,Grilled Tilapia,5
+31,Lobster Meat,5
+32,WildCaught Snow Crab Legs,5
+33,Shrimp Linguini Alfredo,5
+34,Parrot Isle Jumbo Coconut,5
+35,Shrimp,5
+36,Crab Linguini Alfredo,5
+37,Signature Creamy Lobster,5
+38,WoodGrilled Shrimp,5
+39,Rock Lobster Tail,5
+40,Walts Favorite Shrimp,5
+41,Live Maine Lobster,5
+42,Lobster and Langostino Pizza,5
+43,SeafoodStuffed Mushrooms,2
+44,Langostino LobsterArtichoke,2
+45,Signature Jumbo Shrimp,2
+46,PeppercornPanko Calamari,2
+47,Seaside Sampler,2
+48,SeafoodStuffed Mushrooms,2
+49,Parrot Isle Jumbo Coconut Shrimp,2
+50,Sweet Chili Shrimp,2
+51,Create Your Own Appetizer,2
+52,Mozzarella Cheesesticks,2
+53,Chicken Breast Strips,2
+54,Clam Strips,2
+55,SeafoodStuffed Mushrooms,2
+56,RoastedGarlic Mussels,2
+57,New England Clam Chowder,4
+58,Classic Caesar Salad,4
+59,Lobster Bisque,4
+60,Creamy Potato Bacon,4
+61,WoodGrilled Shrimp,5
+62,WoodGrilled Fresh Salmon,5
+63,WoodGrilled Chicken,5
+64,Enchiladas Suizas,5
+65,Huevos Rancheros,5
+66,Mexican Omelette S,5
+67,Red Menudo  cup SO bowl,5
+68,Vegetarian Omelette SL,5
+69,Chilaquiles   S no protein SL,5
+70,Huevos Divorciados I,5
+71,Breakfast Burrito,5
+72,Chorizo con Huevo,5
+73,Tres Leches Pancakes SO,5
+74,Chile verde  Eggs,5
+75,Machaca  Eggs S,5
+76,Draft Beer S,1
+77,Micheladas,1
+78,Mexican Coffee,1
+79,Carne Asada Breakfats,5
+80,Porkchops,5
+81,Eggs SL,5
+82,Salad,3
+83,Mexican Cobb Salad,3
+84,Chicken Tortilla Soup  cup,4
+85,Green Chicken Pozole  cup SO bowl,4
+86,Ensalada de la Casa,3
+87,Albondiga,4
+88,Red Menudo S cup SIO bowl,4
+89,Blackened Sea Bass Salad,3
+90,Mahi Mahi Burrito,5
+91,Shrimp Enchiladas,5
+92,Camarones al Mojo de Ajo,5
+93,Signature Fish Taco Platter,5
+94,Ahi Tacos,5
+95,Blackened Salmon Filet,5
+96,Enchiladas Espanolas,5
+97,Enchiladas SI,5
+98,Signature Mole Enchiladas,5
+99,Classic Combination,5
+100,Chile Relleno,5
+101,Enchiladas Suizas,5
+102,Grilled Chicken Diablo,5
+103,Chilaquiles,5
+104,Taquitos,5
+105,Chipotle Chicken Avocado Torta,5
+106,Tacos de Frank,5
+107,South of the Border Burrito,5
+108,Carne Asada Torta with Mushrooms,5
+109,Three Chimichangas i,5
+110,Three Flautas,5
+111,Grilled Shrimp Fajita Burrito,5
+112,Steak Tampiqueno  Blackened Rib Eye,5
+113,Carnitas S,5
+114,Original Carne Asada,5
+115,Chile Colorado S,5
+116,Chile Verde,5
+117,Fajitas la Especial,5
+118,Chicken and Steak Fajitas,5
+119,Fajitas,5
+120,Traditional Flan,6
+121,Churros y Chocolate,6
+122,Flan de Pastel,6
+123,Bunuelos,6
+124,Fried Ice Cream,6
+125,Two Tacos,5
+126,Chicken Fingers,5
+127,Soft Drinks,1
+128,Iced Tea,1
+129,Fresh made Agua Fresca,1
+130,Coffee,1
+131,Juice,1
+132,Orange Juice,1
+133,BLACKENED TILAPIA WONTONS,2
+134,WILD TEXAS BAY SHRIMP TEMPURA,2
+135,CRISPY FOLEY CALAMARI,2
+136,COLD WATER OYSTERS ROCKEFELLER,2
+137,COLOSSAL SHRIMP COCKTAIL,2
+138,VPN PIZZA NAPOLETANA,2
+139,ARTISANAL CHEESE BOARD,2
+140,MARGHRITA,5
+141,POLENTA FRIES,2
+142,RUSTIC TOMATO BRUSCHETTA,2
+143,PISTACHOEFONTNA,2
+144,LOBSTER AND SHRIMP FRITTERS,2
+145,SALSICCIA,2
+146,CHARCOAL GRILLED BABY OCTOPUS,2
+147,NAPOLISALAME SALSICCIA,2
+148,FRIED CHICKEN SPRING ROLLS,2
+149,SHRIMP AND LOBSTER BISQUE,4
+150,CARAMEL BUDNO,6
+151,Chocolate Cookie Crumbles,6
+152,KEY LIPEWITH GRAHAMCRACKER CRUST,6
+153,FRESH MANILA CLAM CHOWDER,4
+154,ARTISANAL CHEESE BOARD,2
+155,CAESAR DINNER SALAD,3
+156,BITTERSWEET CHOCOLATE FLOURLESS CAKE,6
+157,CARMEN STOKES,5
+158,ORGANIC MESCLUN GREENS,4
+159,CROISSANT BREAD PUDDING,6
+160,MINI WEDGE SALAD,3
+161,WARM APPLE TART,6
+162,VERMONT MAPLE SUGAR COTTON CANDY,6
+163,SOUTH BEACH FAROE ISLAND SALMON SALAD,3
+164,BEEF SHORT RIB TACOS,5
+165,REGAL SPRINGS TILAPIA,5
+166,ALSATIAN GRILLED CHICKEN BREAST SALAD,3
+167,ATLANTIC COD,5
+168,LAKE SUPERIOR WHTEFISH,5
+169,PARKERS PAELLA,5
+170,FAROE ISLAND ORGANIC SALMON,5
+171,CAESAR SALAD,3
+172,IDAHO SPRINGS RAINBOW TROUT,5
+173,WILD ALASKAN HALIBUT,5
+174,JUMBO LUMP CRAB CAKES,5
+175,BONELESS BEFFSHORT RB,5
+176,LOBSTER MAC AND CHEESE,5
+177,CHARCOAL GRILLED CENTER CUT PORK CHOP,5
+178,PREMUMLOCALANGUS BLACKAND BLUEBURGER,5
+179,Sweet Potato Fries,2
+180,LOBSTER GNOCCH,5
+181,MAPLELEAFFARMSDUCKBREAST ANDCONFIT LEG,5
+182,SMOKED TURKEY AND APPLEWOOD BACON CLUB,5
+183,PAN ROASTED GULF OF MAINE SEA SCALLOPS,5
+184,WDMUSHOOM TRUFFIEANDPEA SHOOTSRISOTTO,5
+185,ALASKAN RED KIG CRAB LEGS,5
+186,HIGHLAND VEGETARIAN BURGER,5
+187,CHARCOAL GRILLED LOCAL ANGUS FILET MGNON,5
+188,NEW ENGLAND LOBSTER ROLL,5
+189,PARKERS PREMUMLOCAL ANGUS STEAKBURGER,5
+190,SURF AND TURF,5
+191,BOUILLABAISSE,5
+192,SPICY BUFFALO TLAPIA WRAP,5
+193,CHARCOAL GRILED USDA PRINEW YORK STRIP,5
+194,LOCAL ANGUS BLACK AND BLEU BURGER,5
+195,CRISPY CRABCAKE,5
+196,TABLE BREAD,2
+197,IVY CALSAR g,3
+198,LOCAL GREEN,3
+199,BAKED CLAMS,3
+200,MEATRBALLS,5
+201,FARRO vg g,5
+202,CALAMARI,2
+203,BEET  g g,3
+204,PROSCIUTTO SHRIMP,2
+205,SHRIMP COCKTAIL,2
+206,IVY MAC AND CHEESE,5
+207,BURNT BROCCOLINL,5
+208,CRISPY BRUSSELS,5
+209,MARGHERITA,5
+210,GARLIC MASH,5
+211,MEATBALL,5
+212,RIGATONI AN HOUSE SAUCE,5
+213,ROSEMARY FRIES,2
+214,FIG  PROSCIUTTO,5
+215,SWEET POTATO FRIES,2
+216,TRUFFLE AND HOT PEPPER  g,5
+217,CHICKEN,5
+218,SHRIMP GRILLED,5
+219,SALMON PANSEARED,5
+220,SKIRT STEAK GRILLED,5
+221,IVY CHEESEBURGER,5
+222,BARROTTA,5
+223,VEGGIE BURGER,5
+224,SHORTRIB MAC,5
+225,TORTELLINI ALLA PANNA,5
+226,IWY CALI CHICKEN,5
+227,CREAMY TRUFFLE,5
+228,ANGEL HARR PASTA,5
+229,CHICKEN PARMESAN,5
+230,CHICKEN MILANESE,5
+231,CHICKEN SCARPARIELLO,5
+232,SKIRT  g,5
+233,FILET MIGNON,5
+234,SHORT RIB RISOTTO,5
+235,SALMON,5
+236,THE IVY STRIP  gf,5
+237,SCALLOPS,5
+238,PORTERTIOUSE FOR TWO,5
+239,CHEESY MACARONI BITES,2
+240,GUAC  CHIPS,2
+241,BUFFALO CHICKEN DIP,2
+242,WARM PRETZEL BITES,2
+243,PEPPERONI FLATBREAD,2
+244,QUESO BLANCO  CHIPS,2
+245,MARGHERITA FLATBREAD,2
+246,CHEESE FRIES,2
+247,HARVEST HUMMUS,2
+248,TOPGOLF WINGS,2
+249,BBQ BRISKET FLATBREAD,2
+250,TRES TACOS,2
+251,FARMHOUSE FLATBREAD,2
+252,SIGNATURE NACHOS,2
+253,criSpy CHICKEN STRIPS,5
+254,FRIED CHICKEN SANDWICH,5
+255,COBB SALAD,3
+256,GRILLED CHICKEN SANDWICH,5
+257,FRENCH FRIES,2
+258,THE CLASSIC BURGER Beef or Veggie patty,5
+259,TATER TOTS,2
+260,THE SMOKEHOUSE BURGER,5
+261,Turkey AVOCADO WRAP,5
+262,INJECTABLE DONUT HOLES,6
+263,BREAKFAST BURRITO,5
+264,CHICKEN BITES,2
+265,BRISKET HASH SKILLET,5
+266,DOUBLE TROUBLE COOKIE SKILLET,5
+267,COOKIE CRUMBLE SUNDAE,6
+268,JR CHEESEBURGER,5
+269,Bacon  Onion Skillet,5
+270,Meat Lovers Skillet,5
+271,Popeyes Skillet,5
+272,Ham  Mushroom Skillet,5
+273,Mexican Skillet,5
+274,Western Skillet,5
+275,Skirt Steak Skillet,5
+276,Veggie Skillet,5
+277,Corned Beef Hash Skillet,5
+278,Country Skillet,5
+279,The Original Benedict,5
+280,Idaho Potato Benedict,5
+281,Country Benedict,5
+282,Benedict Florentine,5
+283,CHEESEBURGER LUNCH,5
+284,CHILI Irs Genuine,5
+285,CHILI,5
+286,MAC,5
+287,STEAKBURGER LUNCH,5
+288,CHILI,5
+289,MAC THREE WAYS,5
+290,BOSTON BAKED BEANS,5
+291,LETTUCETOMATOBURGER LUNCH,5
+292,FRENCH FRIES,2
+293,LETTUCE AND TOMATO SALAD,3
+294,MALTED  SHAKES,1
+295,CHEESEBURGER,5
+296,JUMBO SHAKES,1
+297,ORANGE FREEZE,1
+298,FRESK STRAWBERRY SUNDAE,6
+299,SPECIAL CHOPPED HAM,5
+300,CXOCOLATE FUDGE SUNDAE,6
+301,FRESH MADE ICE CREAM,6
+302,SPECIAL HAM AND EGG,5
+303,FRESH ORANGE DRINK,1
+304,LARGE COLA,1
+305,STEAKBURGER,5
+306,FRESH CHURNED BUTTERMILK,1
+307,TOASTED CHEESE,5
+308,ROOT BEER,1
+309,EGG SANDWICH,5
+310,COFFEE OR TEA,1
+311,MILK ,1
+312,Shrimp Key West,5
+313,Dragonfire Chicken,5
+314,Zen Chicken Pot Stickers,5
+315,Tuscan Spinach Dip,2
+316,Fried Mozzarella,2
+317,Crispy Green Bean Fries,2
+318,ITALIAN BEEF,5
+319,ITALIAN SAUSAGE SANDWiCH,5
+320,ITALIAN BEEF  SAUSAGE SANDWiCH,5
+321,BEEFNCHEDDAR CROISSANT,5
+322,PORTILLOS BEEF HOT DOG,5
+323,NEW PLANTBASED GARDEN DOG,5
+324,CHILI CHEESE DOG Reg,5
+325,MAXWELL STREET POLISH  Cal,5
+326,HAMBURGER Single,5
+327,CHEESEBURGER  Single,5
+328,BACON BURGER Single,5
+329,BACON CHEESEBURGER Single,5
+330,BROILED CHICKEN SANDWICH,5
+331,BREADED CHICKEN SANDWICH  Cal,5
+332,Spicy CHICKEN SANDWICH,5
+333,CHICKEN TENDERS,2
+334,BREADED WHITEFISH SANDWICH  Cal,5
+335,CHOPPED SALAD,3
+336,CLASSIC CAESAR SALAD  Cal,3
+337,GREEK SALAD WITh CHICKEN  Cal,3
+338,CLASSIC BOWL  Cal,5
+339,CHICAGO COMBO BOWL  Cal,5
+340,FULL SLAB A LA CARTE  Cal,5
+341,SLAB A LA CARTE  Cal,5
+342,Fresh Cut Fries,2
+343,S  Angus Burger,5
+344,Cheese Fries,2
+345,Nacho Cheese Fries,2
+346,Texas Ranch Burger,5
+347,Bacon Cheese Fries,2
+348,Chili Cheese Fries,2
+349,Crispy Onion Rings,2
+350,Mac N Cheese Bites,2
+351,Cajun Sunrise Burger,5
+352,Crispy Green Beans,2
+353,Hearty Chili,2
+354,Hawaiian Burger,5
+355,Californian Burger,5
+356,Patty Melt,5
+357,Chopped Salad,3
+358,Impossible Burger,5
+359,Spinach Salad,3
+360,Wedge Salad,3
+361,New England Hot Dog,5
+362,Chili Cheese Hot Dog,5
+363,Southern Chicken,5
+364,Chicken Tenders,2
+365,BLT,5
+366,Jr Burger,5
+367,ALT,5
+368,Jr Hot Dog,5
+369,Jr Chicken Tenders,5
+370,Veggie Melt,5
+371,Jr Grilled Cheese,5
+372,Bacon Egg  Cheese,5
+373,Ib Double Meathead,5
+374,Fountain Drink,1
+375,b Triple Meathead,5
+376,Iced Tea,1
+377,Grilled or Crispy Chicken,5
+378,Apple Juice,1
+379,All Natural Turkey,5
+380,Organic Milk,1
+381,Impossible Burger,5
+382,Bottled Water,1
+383,Creamy Shakes,6
+384,Premium Shakes,6
+385,Gourmet Cookie,6
+386,Dagwood Club,5
+387,Falafel,5
+388,Hummus,5
+389,Chicken Caecar,5
+390,Babaganoush,5
+391,Chicken Crave,5
+392,Feta,5
+393,Chicken Breast,5
+394,SwissAmerican,5
+395,Philly Steak,5
+396,Cheddar,5
+397,Club,5
+398,Carden,5
+399,Black Forest Ham,5
+400,Assorted,5
+401,Roast Beef,5
+402,Cyros,5
+403,Souvlaki,5
+404,BLT,5
+405,Tuna,5
+406,American Platter,0
+407,Greek Platter,0
+408,Deli Platter,0
+409,Add Chips and a Cookie,0
+410,Veggie Platter,0
+411,Add a Drink,0
+412,Add Fruit,0
+413,Super Combo Platter,0
+414,Cappuccino,1
+415,Green Tea,1
+416,Freshly Squeezed Orange Juice,1
+417,Strawberry Smoothie,1
+418,Mojito,1
+419,Chai Latte,1
+420,Raspberry Lemonade,1
+421,Iced Coffee,1
+422,Mango Lassi,1
+423,Bloody Mary,1
+424,Espresso,1
+425,Blueberry Shake,1
+426,Mint Iced Tea,1
+427,Hot Chocolate,1
+428,Pina Colada,1
+429,Americano,1
+430,Passion Fruit Cooler,1
+431,Ginger Ale,1
+432,Turmeric Latte,1
+433,Watermelon Juice,1
+434,Iced Green Tea,1
+435,Cherry Soda,1
+436,Peach Smoothie,1
+437,Lemonade,1
+438,Margarita,1
+439,Mint Julep,1
+440,Root Beer,1
+441,Green Smoothie,1
+442,Chamomile Tea,1
+443,Cosmopolitan,1
+444,Sangria,1
+445,Milkshake,1
+446,Martini,1
+447,Whiskey Sour,1
+448,Lemon Drop,1
+449,Mai Tai,1
+450,Tequila Sunrise,1
+451,White Russian,1
+452,Black Tea,1
+453,Blue Lagoon,1
+454,Mimosa,1
+455,Bellini,1
+456,Old Fashioned,1
+457,Gin and Tonic,1
+458,Cuba Libre,1
+459,Soda Water,1
+460,Orange Juice,1
+461,Apple Juice,1
+462,Bruschetta,2
+463,Spinach and Artichoke Dip,2
+464,Shrimp Cocktail,2
+465,Stuffed Mushrooms,2
+466,Chicken Satay,2
+467,Spring Rolls,2
+468,Nachos with Guacamole,2
+469,Caprese Skewers,2
+470,Tempura Vegetables,2
+471,Hummus and Pita Bread,2
+472,Calamari Rings,2
+473,Potato Skins,2
+474,Deviled Eggs,2
+475,Quesadilla,2
+476,Duck Spring Rolls,2
+477,Tuna Tartare,2
+478,Baked Brie,2
+479,Edamame,2
+480,Crab Cakes,2
+481,Vegetable Samosas,2
+482,Spinach Dip,2
+483,Nachos,2
+484,Chicken Wings,2
+485,Mozzarella Sticks,2
+486,Dumplings,2
+487,Quesadillas,2
+488,Beef Sliders,2
+489,Onion Rings,2
+490,Fried Pickles,2
+491,Egg Rolls,2
+492,Ceviche,2
+493,Bacon Wrapped Dates,2
+494,Prawn Cocktail,2
+495,Garlic Knots,2
+496,Fried Calamari,2
+497,Guacamole and Chips,2
+498,Hummus Platter,2
+499,Cheese Platter,2
+500,Meatballs,2
+501,Clam Chowder,2
+502,Lobster Bisque,2
+503,Tomato Soup,2
+504,French Onion Soup,2
+505,Gazpacho,2
+506,Salmon Croquettes,2
+507,Baked Camembert,2
+508,Fried Green Tomatoes,2
+509,Pulled Pork Sliders,2
+510,Tofu Bites,2
+511,Samosas,2
+512,Tapenade,2
+513,Pita Bread and Dip,2
+514,Fried Cheese Curds,2
+515,Breaded Mushrooms,2
+516,Taco Dip,2
+517,Stuffed Peppers,2
+518,Baked Clams,2
+519,Prosciutto Wrapped Melon,2
+520,Fried Ravioli,2
+521,Antipasto Platter,2
+522,Caesar Salad,3
+523,Greek Salad,3
+524,Cobb Salad,3
+525,Spinach and Goat Cheese Salad,3
+526,Waldorf Salad,3
+527,Tuna Salad,3
+528,Caprese Salad,3
+529,Roasted Beet and Arugula Salad,3
+530,Quinoa and Avocado Salad,3
+531,Thai Mango Salad,3
+532,Kale and Cranberry Salad,3
+533,Pear and Blue Cheese Salad,3
+534,Southwest Chicken Salad,3
+535,Tabbouleh,3
+536,Roasted Corn Salad,3
+537,Panzanella,3
+538,Nicoise Salad,3
+539,Asian Noodle Salad,3
+540,Fattoush,3
+541,Chopped Salad,3
+542,Spinach Salad,3
+543,Taco Salad,3
+544,Pasta Salad,3
+545,Fruit Salad,3
+546,Chicken Salad,3
+547,Potato Salad,3
+548,Egg Salad,3
+549,Bean Salad,3
+550,Broccoli Salad,3
+551,Ambrosia Salad,3
+552,Macaroni Salad,3
+553,Coleslaw,3
+554,Kale Salad,3
+555,Quinoa Salad,3
+556,Roasted Vegetable Salad,3
+557,Shrimp Salad,3
+558,Rice Salad,3
+559,Mediterranean Salad,3
+560,Arugula Salad,3
+561,Beet Salad,3
+562,Brussels Sprouts Salad,3
+563,Cucumber Salad,3
+564,Lentil Salad,3
+565,Panzenella,3
+566,Seaweed Salad,3
+567,Thai Beef Salad,3
+568,Chickpea Salad,3
+569,Caesar Salad with Grilled Chicken,3
+570,Southwest Salad,3
+571,Bibb Lettuce Salad,3
+572,Jicama Salad,3
+573,Cranberry Salad,3
+574,Avocado Salad,3
+575,Israeli Salad,3
+576,Sesame Chicken Salad,3
+577,Mango Salad,3
+578,Panzanella Salad,3
+579,Mixed Greens Salad,3
+580,Tomato Basil Soup,4
+581,Chicken Noodle Soup,4
+582,Minestrone,4
+583,French Onion Soup,4
+584,Butternut Squash Soup,4
+585,Clam Chowder,4
+586,Broccoli Cheddar Soup,4
+587,Miso Soup,4
+588,Lentil Soup,4
+589,Gazpacho,4
+590,Potato Leek Soup,4
+591,Hot and Sour Soup,4
+592,Cream of Mushroom,4
+593,Pumpkin Soup,4
+594,Beef Barley Soup,4
+595,Tom Yum,4
+596,Chicken Tortilla Soup,4
+597,Pea and Ham Soup,4
+598,Borscht,4
+599,Cream of Asparagus,4
+600,Tomato Soup,4
+601,Tortilla Soup,4
+602,Pho,4
+603,Cream of Mushroom Soup,4
+604,Split Pea Soup,4
+605,Corn Chowder,4
+606,Chicken and Rice Soup,4
+607,Italian Wedding Soup,4
+608,Lobster Bisque,4
+609,Tom Yum Soup,4
+610,Cabbage Soup,4
+611,Mulligatawny,4
+612,Chicken Tortellini Soup,4
+613,Cream of Asparagus Soup,4
+614,Black Bean Soup,4
+615,Egg Drop Soup,4
+616,Gumbo,4
+617,Chicken Dumpling Soup,4
+618,Cream of Chicken Soup,4
+619,Wonton Soup,4
+620,Posole,4
+621,Tom Kha Gai,4
+622,Fish Soup,4
+623,Cream of Celery Soup,4
+624,Sausage and Kale Soup,4
+625,Chili,4
+626,Manhattan Clam Chowder,4
+627,Chicken Curry Soup,4
+628,Cream of Potato Soup,4
+629,Vegetable Beef Soup,4
+630,Ramen,4
+631,Clear Broth Soup,4
+632,Cream of Broccoli Soup,4
+633,Chicken Corn Soup,4
+634,Pasta Fagioli,4
+635,Pepper Soup,4
+636,Grilled Salmon with Lemon Butter Sauce,5
+637,Chicken Alfredo Pasta,5
+638,Beef Wellington,5
+639,Vegetable Stir-Fry,5
+640,Lamb Chops with Mint Sauce,5
+641,Shrimp Scampi,5
+642,BBQ Ribs,5
+643,Eggplant Parmesan,5
+644,Lobster Thermidor,5
+645,Tofu Curry,5
+646,Steak Frites,5
+647,Chicken Tikka Masala,5
+648,Spaghetti Carbonara,5
+649,Duck a l'Orange,5
+650,Fish Tacos,5
+651,Vegetable Lasagna,5
+652,Beef Stroganoff,5
+653,Teriyaki Chicken,5
+654,Mushroom Risotto,5
+655,Pulled Pork Sandwich,5
+656,Lamb Chops,5
+657,Vegetable Stir Fry,5
+658,Seafood Paella,5
+659,Chicken Alfredo,5
+660,Grilled Salmon,5
+661,Pork Tenderloin,5
+662,Duck Confit,5
+663,Vegetable Curry,5
+664,Chicken Marsala,5
+665,Risotto,5
+666,Lobster Roll,5
+667,Braised Short Ribs,5
+668,Chicken Parmesan,5
+669,Veal Piccata,5
+670,Fettuccine Alfredo,5
+671,Pork Chops,5
+672,Grilled Tuna Steak,5
+673,Beef Tacos,5
+674,Chicken Enchiladas,5
+675,Sushi Platter,5
+676,Ramen,5
+677,Pho,5
+678,Bibimbap,5
+679,Chicken Caesar Salad,5
+680,Grilled Cheese Sandwich,5
+681,Burgers,5
+682,Vegan Burger,5
+683,Linguine with Clams,5
+684,Chicken Souvlaki,5
+685,Miso Soup,5
+686,Pad Thai,5
+687,Chicken Katsu,5
+688,Chicken and Waffles,5
+689,Tofu Stir Fry,5
+690,Gyro,5
+691,Fish and Chips,5
+692,Pizza Margherita,5
+693,Chocolate Fondue,6
+694,Tiramisu,6
+695,Apple Pie with Vanilla Ice Cream,6
+696,Creme Brulee,6
+697,Raspberry Cheesecake,6
+698,Chocolate Mousse,6
+699,Panna Cotta with Berry Compote,6
+700,Lemon Tart,6
+701,Bread Pudding,6
+702,Eclairs,6
+703,Brownie Sundae,6
+704,Pavlova,6
+705,Key Lime Pie,6
+706,Chocolate Lava Cake,6
+707,Gelato,6
+708,Banoffee Pie,6
+709,Macarons,6
+710,Rice Pudding,6
+711,Strawberry Shortcake,6
+712,Baklava,6
+713,Pecan Pie,6
+714,Mango Sorbet,6
+715,Apple Pie,6
+716,Banana Split,6
+717,Panna Cotta,6
+718,Chocolate Chip Cookies,6
+719,Brownies,6
+720,Ice Cream Sundae,6
+721,Cupcakes,6
+722,Cannoli,6
+723,Profiteroles,6
+724,Carrot Cake,6
+725,Pumpkin Pie,6
+726,Flan,6
+727,Mochi,6
+728,Chocolate Truffles,6
+729,Pound Cake,6
+730,Biscotti,6
+731,Tart Tatin,6
+732,Custard,6
+733,Jelly Roll,6
+734,Pineapple Upside Down Cake,6
+735,Chocolate Cake,6
+736,Vanilla Cake,6
