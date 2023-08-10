@@ -7,7 +7,7 @@ through another ML model to categorize these items in to 6 categories: Drinks, A
 Python Packages used:
 
 **Easyocr** 
-For converting image files into distinct pieces of text (textboxes)<br>
+For converting image files into distinct pieces of text (textboxes)<br></br>
 **Pandas** 
 For organizing text provided by easyocr into a table (dataframe) and feature engineering. 
 23 Menus have been collected from the internet, sent through ocr, and organized into a table, totaling over 2500 rows of text.<br>
