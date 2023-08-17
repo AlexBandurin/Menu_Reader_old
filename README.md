@@ -4,6 +4,8 @@ This is a web application that uses a image file of a restaurant menu to convert
 That text is then sent through a Machine Learning (ML) model to output a list of menu items. That list is then sent 
 through another ML model to categorize these items in to 6 categories: Drinks, Appetizers, Salads, Soups, Main, Dessert.
 
+[View the App](https://menu-reader-1ada6a994a40.herokuapp.com/)
+
 ## Python Packages used:
 
 ### Easyocr
