@@ -9,7 +9,7 @@ through another ML model to categorize these items in to 6 categories: Drinks, A
 ## Python Packages used:
 
 ### Easyocr
-An optical character recognition package for converting an image file into distinct pieces of text (textboxes).
+An **optical character recognition** package for converting an image file into distinct pieces of text (textboxes).
 ### Pandas
 For organizing text provided by easyocr into a table (dataframe) and **feature engineering**. 
 23 Menus have been collected from the internet, sent through ocr, and organized into a table, totaling **over 2500 rows** of text. 
